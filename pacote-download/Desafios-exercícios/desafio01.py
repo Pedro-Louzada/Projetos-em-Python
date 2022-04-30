@@ -1,0 +1,5 @@
+alpnum = input ('Digite algo: ')
+print (type (alpnum) )
+print (alpnum.isalnum())
+print (alpnum.isnumeric())
+print (alpnum.isalpha())
