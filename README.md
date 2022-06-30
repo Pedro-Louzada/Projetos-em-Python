@@ -1,2 +1,2 @@
-# Projetos em Python
+# Projetos de Estudo em Python
  Linguagem Python
